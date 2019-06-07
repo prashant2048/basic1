@@ -3,8 +3,6 @@ import ("fmt" )
 type st struct {
 x int 
 y int
-
-
 }
 func main(){
 	var z int
