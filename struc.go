@@ -11,5 +11,5 @@ func main(){
 	fmt.Println(s)
 	fmt.Println(z)
 	
-	//fmt.Println("%T",z)
+	fmt.Println("changed")
 }
