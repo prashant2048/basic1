@@ -9,5 +9,6 @@ func main() {
    	ipr,_:=net.LookupIp("facebook.com")
 	for _, ip:=range ipr {
 		fmt.Println(ip)
+	fmt.Println("done..\n")
 	}
 }
