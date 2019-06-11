@@ -1,2 +1,2 @@
-ample file
+sample file
 
